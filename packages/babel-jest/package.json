@@ -11,6 +11,12 @@
   "dependencies": {
     "babel-core": "^6.0.0",
     "babel-plugin-istanbul": "^4.0.0",
-    "babel-preset-jest": "^19.0.0"
-  }
+    "babel-preset-jest": "^19.0.0",
+    "snyk": "^1.189.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
