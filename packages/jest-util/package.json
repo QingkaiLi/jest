@@ -14,6 +14,6 @@
     "jest-validate": "^19.0.2",
     "jest-message-util": "^19.0.0",
     "leven": "^2.1.0",
-    "mkdirp": "^0.5.1"
+    "mkdirp": "^1.0.0"
   }
 }
