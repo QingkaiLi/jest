@@ -9,6 +9,6 @@
   "main": "build/index.js",
   "dependencies": {
     "jest-mock": "^19.0.0",
-    "jest-util": "^19.0.2"
+    "jest-util": "^24.0.0"
   }
 }
