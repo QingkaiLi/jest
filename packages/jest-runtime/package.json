@@ -15,7 +15,7 @@
     "convert-source-map": "^1.4.0",
     "graceful-fs": "^4.1.11",
     "jest-config": "^19.0.2",
-    "jest-haste-map": "^19.0.0",
+    "jest-haste-map": "^30.0.0",
     "jest-regex-util": "^19.0.0",
     "jest-resolve": "^19.0.2",
     "jest-util": "^19.0.2",
