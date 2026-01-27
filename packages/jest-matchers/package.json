@@ -8,7 +8,7 @@
   "license": "BSD-3-Clause",
   "main": "build/index.js",
   "dependencies": {
-    "jest-diff": "^19.0.0",
+    "jest-diff": "^24.0.0",
     "jest-matcher-utils": "^19.0.0",
     "jest-message-util": "^19.0.0",
     "jest-regex-util": "^19.0.0"
